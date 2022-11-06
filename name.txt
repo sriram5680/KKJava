@@ -1,0 +1,2 @@
+We can able to edit the Notepad
+By Typing notepad name.txt
